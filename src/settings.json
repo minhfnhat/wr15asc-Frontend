@@ -1,0 +1,73 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Drive through your day with the perfect blend of taste and energy. Discover our premium coffee, crafted to fuel your journey.",
+        "title": "Rev Up Your Ride with the Ultimate Coffee Experience"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Drive through your day with the perfect blend of taste and energy. Discover our premium coffee, crafted to fuel your journey.",
+        "title": "Rev Up Your Ride with the Ultimate Coffee Experience"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "buttonText": "Find Your Ride",
+        "linkText": "Explore More",
+        "subtitle": "Experience a groundbreaking blend of comfort and innovation. Our car redefines your travel with advanced features and unmatched reliability.",
+        "title": "Discover the Future of Mobility with Coffee"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Drive through your day with the perfect blend of taste and energy. Discover our premium coffee, crafted to fuel your journey.",
+        "title": "Rev Up Your Ride with the Ultimate Coffee Experience"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Drive through your day with the perfect blend of taste and energy. Discover our premium coffee, crafted to fuel your journey.",
+        "title": "Rev Up Your Ride with the Ultimate Coffee Experience"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Drive through your day with the perfect blend of taste and energy. Discover our premium coffee, crafted to fuel your journey.",
+        "title": "Rev Up Your Ride with the Ultimate Coffee Experience"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Drive through your day with the perfect blend of taste and energy. Discover our premium coffee, crafted to fuel your journey.",
+        "title": "Rev Up Your Ride with the Ultimate Coffee Experience"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Drive through your day with the perfect blend of taste and energy. Discover our premium coffee, crafted to fuel your journey.",
+        "title": "Rev Up Your Ride with the Ultimate Coffee Experience"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Drive through your day with the perfect blend of taste and energy. Discover our premium coffee, crafted to fuel your journey.",
+        "title": "Rev Up Your Ride with the Ultimate Coffee Experience"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Rev Up Your Ride with the Ultimate Coffee Experience",
+  "subtitle": "Drive through your day with the perfect blend of taste and energy. Discover our premium coffee, crafted to fuel your journey."
+}
